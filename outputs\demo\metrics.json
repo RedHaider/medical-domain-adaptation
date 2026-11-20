@@ -1,0 +1,5 @@
+{
+  "source_only_target_auroc": 0.7913757046608834,
+  "coral_target_auroc": 0.7805283246451916,
+  "source_auroc": 0.7551611111111112
+}
